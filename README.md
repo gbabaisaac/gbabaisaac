@@ -89,7 +89,7 @@ Modern campus social network that uses AI to build genuine friendships, roommate
 Third-place Harvard Blockchain Hackathon winner.  
 A GitHub-native platform where developers earn funding for solving issues.
 
-🔗 Repo: https://github.com/gbabaisaac/mergefund  
+
 🔗 App: mergefund.org  
 
 ---
