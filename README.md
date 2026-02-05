@@ -24,7 +24,7 @@
 
 # 🚀 **About Me**
 
-Hi, I'm **Isaac Gbaba**, I build random things i find cool.
+Hi, I'm **Isaac Gbaba**, I build random things .
 ---
 
 # ✨ **“I dont be pushing fr ”**
