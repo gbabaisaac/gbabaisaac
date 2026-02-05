@@ -11,9 +11,7 @@
 <!--     AVATAR / CHARACTER    -->
 <!-- ========================= -->
 
-<p align="center">
-  <img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Isaac&hair=shortFade&accessories=glasses&skinColor=brown&eyes=variant05&mouth=smile" width="200" />
-</p>
+
 
 <p align="center">
   <em>Always shipping.</em>
@@ -30,8 +28,9 @@ Hi, I'm **Isaac Gbaba**, I build random things .
 # ✨ **“I dont be pushing fr ”**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/gbabaisaac.png" width="200" style="border-radius: 50%; border: 4px solid #8A2BE2;" />
 </p>
+
 
 
 I work across:
