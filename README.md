@@ -25,7 +25,7 @@
 Hi, I'm **Isaac Gbaba**, I build random things .
 ---
 
-# ✨ **“I dont be pushing fr ”**
+#  **“I dont be pushing fr ”**
 
 <p align="center">
   <img src="https://github.com/gbabaisaac.png" width="200" style="border-radius: 50%; border: 4px solid #8A2BE2;" />
@@ -43,7 +43,7 @@ I'm currently focused on **AI companions, relationship graphs, next-gen social a
 
 ---
 
-# 🌐 **My Links**
+#  **My Links**
 
 <p align="center">
   <a href="https://github.com/gbabaisaac"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -74,7 +74,7 @@ I'm currently focused on **AI companions, relationship graphs, next-gen social a
 
 ---
 
-# 🚀 **Featured Projects**
+#  **Featured Projects**
 
 ## 🟣 **Bonded – AI Social App**
 Modern campus social network that uses AI to build genuine friendships, roommate matches, and emotional insights.
@@ -95,7 +95,7 @@ A GitHub-native platform where developers earn funding for solving issues.
 
 ---
 
-# 🧠 **What I’m Learning / Exploring**
+#  **What I’m Learning / Exploring**
 - AI companions + emotional intelligence  
 - Next-gen social UX (Bonded)  
 - Open-source developer economics (MergeFund)  
@@ -116,6 +116,6 @@ A GitHub-native platform where developers earn funding for solving issues.
 
 ---
 
-# 🤝 **Let’s Collaborate**
+# **Let’s Collaborate**
 If you're building something ambitious — social, AI, developer tools, or consumer apps — I’d love to connect.
 
